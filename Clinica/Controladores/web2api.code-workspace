@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../web2api"
+		},
+		{
+			"path": "../../clienteApi"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../codigo-crud-php-mysql-main"
+		},
+		{
+			"path": "../../apirestphp-main"
+		},
+		{
+			"path": "../../Clinica_Dental-master"
+		},
+		{
+			"path": "../../../../laragon/www/7monitoreunicor"
+		}
+	],
+	"settings": {}
+}
